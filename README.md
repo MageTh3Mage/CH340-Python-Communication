@@ -1,6 +1,6 @@
 # KMBox B Pro – Python Communication Library
 
-A minimal Python library for communicating with the KMBox B Pro over a CH340 based COM port connection.
+A minimal Python library for communicating over a CH340 based COM port connection.
 
 ---
 
